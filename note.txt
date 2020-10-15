@@ -1,0 +1,35 @@
+
+
+1.	SELECT col_name(s) FROM table_name
+
+2. 	SELECT DISTINCT col_name(s) FROM table_name
+
+3. SELECT* FROM tb1_name ORDERED BY col+name(s) ASC;
+
+4. SELECT * FROM tbl_name ORDER BY col_name(s) ASC; col_name(s) dESC;
+
+5. INSERT INTO table_name (column1, column2, column3)   value (value1, value,2 value3)
+
+6.Select * FROM tbl_name WHERE column_name like 'Admin%';
+
+7.Select * FROM tbl_name WHERE colum_name like '%a%';
+
+8.
+
+9.SELECT col_name(s) FROM table_name WHERE column_name BETWEEN value1 And value
+
+10.Select * FROM tbl_name WHERE col_name(operator) value AND col_name = value
+
+11.SELECT COUNT(*) FROM tbl-Name WHERE col_name = 'Admin';
+
+12.SELECT col_name FROM tbl_name INNER JOIN tbl_name2 ON tbl_name1.col_name = tb2_name1.col_name AND col_name in ('value');
+
+13.SELECT * FROM tbl_name ORDER BY col_name DESC LIMIT number;
+
+14. SELECT distinct col_name FROM tbl_name WHERE col_name >= (SELECT count(*) from tbl_name WHERE col_name <= b.Salary) ORDER BY col_name DESC;
+
+15. SELECT SUM (col_name) FROM tbl_name
+
+16 ma ya
+
+17 ma ya
